@@ -60,7 +60,7 @@ def onliner(token, status):
                     "emoji": {
                         "name": "Nitro",
                         "id": "1259703286831906836",
-                        "animated": true,
+                        "animated": True,
                     },
                 }
             ],
