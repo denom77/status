@@ -58,7 +58,7 @@ def onliner(token, status):
                     "name": "Custom Status",
                     "id": "custom",
                     "emoji": {
-                        "name": ":prom:",
+                        "name": "prom",
                         "id": "1253616796464971807",
                         "animated": True,
                     },
