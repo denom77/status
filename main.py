@@ -57,11 +57,10 @@ def onliner(token, status):
                     "state": custom_status,
                     "name": "Custom Status",
                     "id": "custom",
-                    #Uncomment the below lines if you want an emoji in the status
                     "emoji": {
-                        "name": ":Nitro_Gif:",
-                        "id": "1259686535687700500",
-                        "animated": False,
+                        "name": "Nitro",
+                        "id": "1259703286831906836",
+                        "animated": true,
                     },
                 }
             ],
